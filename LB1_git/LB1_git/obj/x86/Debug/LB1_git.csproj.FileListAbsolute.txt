@@ -1,0 +1,7 @@
+C:\Users\User\LR1_git\LB1_git\LB1_git\bin\Debug\LB1_git.exe
+C:\Users\User\LR1_git\LB1_git\LB1_git\bin\Debug\LB1_git.pdb
+C:\Users\User\LR1_git\LB1_git\LB1_git\obj\x86\Debug\LB1_git.Form1.resources
+C:\Users\User\LR1_git\LB1_git\LB1_git\obj\x86\Debug\LB1_git.Properties.Resources.resources
+C:\Users\User\LR1_git\LB1_git\LB1_git\obj\x86\Debug\LB1_git.csproj.GenerateResource.Cache
+C:\Users\User\LR1_git\LB1_git\LB1_git\obj\x86\Debug\LB1_git.exe
+C:\Users\User\LR1_git\LB1_git\LB1_git\obj\x86\Debug\LB1_git.pdb
